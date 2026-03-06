@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdwb2Y0b21ldjI2NThoOGpqNnNvbjZicXBwMDVtYXZjZXJvbWcyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ppSjX2iP9Ec1ExJRsV/giphy.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdwb2Y0b21ldjI2NThoOGpqNnNvbjZicXBwMDVtYXZjZXJvbWcyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ppSjX2iP9Ec1ExJRsV/giphy.gif"  />
 
 ###
 
@@ -50,6 +50,10 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Abhaym249/Abhaym249/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div>
@@ -59,6 +63,8 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhaym249&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Abhaym249&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhaym249&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
